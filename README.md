@@ -117,7 +117,6 @@ and is wrapped around the whole page content, except for the footer in this exam
 
               <H3>Unpack History and Why Technology is the Way it is today</H3>
               <p style="text-indent: 25px;">
-                Unpack History and Why Technology is the Way it is today
                 It can be a surprise to think that modern day technology could be linked to the “pre-existing” 
                 colonialism that practically expanded to the entire world. The intricate intersection of race and 
                 technology, prevails in history and our everyday lives with daily human interactions.The adopted 
@@ -231,8 +230,8 @@ and is wrapped around the whole page content, except for the footer in this exam
           </li>
 
           <li>
-            Mustafa Ali, S. (2016, June 13). A Brief Introduction 
-            to Decolonial Computing [Review of A Brief Introduction to Decolonial Computing]. 16–21.
+                      Mustafa Ali, S. (2016, June 13). A Brief Introduction 
+          to Decolonial Computing [Review of A Brief Introduction to Decolonial Computing]. 16–21.
           </li>
       </p>
       <div class="w3-row">
